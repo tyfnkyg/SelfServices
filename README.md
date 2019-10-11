@@ -1,13 +1,23 @@
-# Sample Snack app
+# <b>E-Commerce App</b>
 
-Welcome to Expo!
+# Project Display Image
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
+<p>
+  
+<a href="https://github.com/tyfnkyg/SelfServices/blob/master/PNG/Urunler.png" target="_blank">
+<img src="https://github.com/tyfnkyg/SelfServices/blob/master/PNG/Urunler.png" width="250" style="max-width:100%;"></a>
+  
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
+<a href="https://github.com/tyfnkyg/SelfServices/blob/master/PNG/AramaTum.png" target="_blank">
+<img src="https://github.com/tyfnkyg/SelfServices/blob/master/PNG/AramaTum.png" width="250" style="max-width:100%;"></a>
 
-Projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
+<a href="https://github.com/tyfnkyg/SelfServices/blob/master/PNG/Arama.png" target="_blank">
+<img src="https://github.com/tyfnkyg/SelfServices/blob/master/PNG/Arama.png" width="250" style="max-width:100%;"></a>
+ 
+<a href="https://github.com/tyfnkyg/SelfServices/blob/master/PNG/Kampanyalar.png" target="_blank">
+<img src="https://github.com/tyfnkyg/SelfServices/blob/master/PNG/Kampanyalar.png" width="250" style="max-width:100%;"></a>
+  
+<a href="https://github.com/tyfnkyg/SelfServices/blob/master/PNG/Giriş%20Ekranı.png" target="_blank">
+<img src="https://github.com/tyfnkyg/SelfServices/blob/master/PNG/Giriş%20Ekranı.png" width="250" style="max-width:100%;"></a>
+  
+</p>  
